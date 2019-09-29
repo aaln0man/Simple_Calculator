@@ -337,7 +337,7 @@ public class MainActivity extends AppCompatActivity {
                     {
                         ans.setText(var1 / var2 + "");
                     }else{
-                        ans.setText("Ivalid");
+                        ans.setText("Invalid");
                     }
 
                 }
